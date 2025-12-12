@@ -5,15 +5,23 @@ I combine coding expertise with design skills to develop efficient systems, full
 and captivating visual content — bringing ideas to life with functionality and style.
 
 ## 🧠 Skills
-- Full-stack application development  
-- Backend systems, automation and workflow optimization  
-- UI/UX design and smooth interactive experiences  
-- Problem-solving, system architecture and clean structure  
-- Creative direction and visual content development  
-- Ability to learn new technologies quickly  
-- Constantly exploring new workflows, techniques and skillsets  
+- **Backend development** and system architecture  
+- **Frontend development** and interactive web experiences  
+- **UI/UX design** with a focus on clean, functional interfaces  
+- **Graphic design** and creative direction  
+- **Photography**, especially automotive and motorsport  
+- Workflow optimization and automation  
+- Quick learner of new technologies, tools and processes  
+- Constantly exploring new skills, techniques and workflows  
 
-## 🔗 Links
+## 📬 Availability
+I'm open to new work opportunities, collaborations and professional experiences.  
+You can contact me through my website or email.
+
+- 🌐 Website: **https://leonardoboschi.com**  
+- ✉️ Email: **info@leonardoboschi.com**
+
+## 🔗 Useful Links
+- **Website:** https://www.leonardoboschi.com  
 - **LinkedIn:** https://www.linkedin.com/in/leonardo-boschi  
-- **GitHub:** https://github.com/Boschi404  
 - **Instagram:** https://www.instagram.com/leo.boschii.ph  
