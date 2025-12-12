@@ -2,7 +2,7 @@
 
 I'm Leonardo Boschi, a Full-Stack Developer and creative professional with a strong passion for cars.  
 I combine coding expertise with design skills to develop efficient systems, full-stack applications,  
-and captivating visual content — bringing ideas to life with functionality and style.
+and captivating visual content, bringing ideas to life with functionality and style in mind.
 
 ## 🧠 Skills
 - **Backend development** and system architecture  
