@@ -6,22 +6,17 @@ and captivating visual content — bringing ideas to life with functionality and
 
 ## 🧠 Skills
 - **Backend development** and system architecture  
-- **Frontend development** and interactive web experiences  
-- **UI/UX design** with a focus on clean, functional interfaces  
+- **Frontend & UI/UX** with a focus on clean, functional interfaces  
 - **Graphic design** and creative direction  
 - **Photography**, especially automotive and motorsport  
 - Workflow optimization and automation  
-- Quick learner of new technologies, tools and processes  
-- Constantly exploring new skills, techniques and workflows  
+- Quick learner of new technologies, constantly exploring new skills, techniques and workflows  
 
 ## 📬 Availability
-I'm open to new work opportunities, collaborations and professional experiences.  
-You can contact me through my website or email.
+I'm open to new work opportunities and professional experiences.  
+You can contact me through:
 
+- ✉️ Email: **info@leonardoboschi.com**  
 - 🌐 Website: **https://leonardoboschi.com**  
-- ✉️ Email: **info@leonardoboschi.com**
-
-## 🔗 Useful Links
-- **Website:** https://www.leonardoboschi.com  
-- **LinkedIn:** https://www.linkedin.com/in/leonardo-boschi  
-- **Instagram:** https://www.instagram.com/leo.boschii.ph  
+- 💼 LinkedIn: **https://www.linkedin.com/in/leonardo-boschi**  
+- 📸 Instagram: **https://www.instagram.com/leo.boschii.ph**  
